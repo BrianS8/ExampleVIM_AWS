@@ -82,90 +82,6 @@
    82  vim process_weather_data.py
    83  ls
    84  history >> log.txt
-    1  sudo pip install pandas --user
-    2  sudo search python
-    3  sudo yum search python
-    4  sudo yum search python3
-    5  sudo yum install python36 python-pip
-    6  pip install -U virtualenv
-    7  pip install -U pip
-    8  pip install -U virtualenv
-    9  pip install -U pip
-   10  sudo yum install python36*
-   11  sudo alternatives --install /usr/bin/python python /usr/bin/python2.7 1
-   12  sudo alternatives --install /usr/bin/python python /usr/bin/python3.6 2
-   13  sudo alternatives --config python
-   14  python  --version
-   15  sudo /usr/bin/pip-3.6  install matplotlib pandas requests
-   16  ls
-   17  vim fetch_weather_data.py 
-   18  cst fetch_weather_data.py 
-   19  cat fetch_weather_data.py 
-   20  ls
-   21  vim fetch_weather_data2.py 
-   22  python fetch_weather_data2.py 
-   23  ls
-   24  python fetch_weather_data.py 
-   25  ls
-   26  python fetch_weather_data2.py 
-   27  vim fetch_weather_data2.py 
-   28  python fetch_weather_data2.py 
-   29  ls 
-   30  ls darksky_data/
-   31  ls darksky_data/output_data/
-   32  vim fetch_weather_data2.py 
-   33  python fetch_weather_data2.py 
-   34  ls darksky_data/output_data/
-   35  yum install tree
-   36  sudo yum install tree
-   37  cd ..
-   38  tree
-   39  vim fetch_weather_data2.py 
-   40  ls
-   41* 
-   42  ls
-   43  vim fetch_weather_data2.py 
-   44  cd ...
-   45  tree
-   46  ls
-   47  vim fetch_weather_data2.py 
-   48  python fetch_weather_data2.py 
-   49  ls
-   50  tree3
-   51  tree
-   52  cd ..
-   53  ls
-   54  cd ec2-user/
-   55  git clone https://github.com/BrianS8/ExampleVIM_AWS.git
-   56  sudo git clone https://github.com/BrianS8/ExampleVIM_AWS.git
-   57  git init
-   58  yum install git
-   59  sudo yum install git
-   60  git init
-   61  git clone https://github.com/BrianS8/ExampleVIM_AWS.git
-   62  ls
-   63  mv fetch_weather_data.py ExampleVIM_AWS
-   64  ls
-   65  cd ExampleVIM_AWS/
-   66  ls
-   67  mv fetch_weather_data2.py ExampleVIM_AWS
-   68  cd ..
-   69  ls
-   70  mv fetch_weather_data2.py ExampleVIM_AWS
-   71  ls
-   72  mv darksky_data ExampleVIM_AWS
-   73  ls
-   74  cd ExampleVIM_AWS/
-   75  ls
-   76  git status
-   77  git add .
-   78  git commit -m "Add first exercise"
-   79  git status
-   80  git push origin master
-   81  ls
-   82  vim process_weather_data.py
-   83  ls
-   84  history >> log.txt
    85  ls
    86  git status
    87  git add .
@@ -217,4 +133,3 @@
   133  ls
   134  git status
   135  history >> log.text
-  136  history >> log.txt
