@@ -1,2 +1,2 @@
 # ExampleVIM_AWS
-This repository contains some examples to work on python in virtual machine from AWS
+This repository contains some results of the work in Python in an AWS virtual machine
